@@ -11,7 +11,7 @@
 对应optimize.ts文件
 
 4、Integrate with an AI Agent (OpenAI/LangChain) to provide trading suggestions
-
+对应Integrate.ts文件
 
 5、Provide real-time WebSocket notifications for trade events
 
