@@ -8,7 +8,7 @@
 对应fetchstore.ts文件
 
 3、Optimize high-frequency queries & avoid rate limiting
-
+对应optimize.ts文件
 
 4、Integrate with an AI Agent (OpenAI/LangChain) to provide trading suggestions
 
